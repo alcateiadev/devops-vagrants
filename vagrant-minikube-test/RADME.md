@@ -1,3 +1,11 @@
+## Alcateia Dev
+
+<img src="../Transparente.png">
+
+Link com todos os cursos e cupons: [http://www.alcateiadev.com.br/](http://www.alcateiadev.com.br/) <br>
+Slack: https://alcateiadev.slack.com/
+
+
 # Configurando o minikube
 
 ```
